@@ -1,0 +1,22 @@
+/* Estilp del titulo principal de arriba */
+
+#principal {
+
+	/* Tamaño de letra */
+
+	font-size: 50px;
+
+	/* Fondo de letra */
+
+	background-color:#0FFF45;
+
+	/* Color de letra*/
+
+	color:#7416AD;
+
+	text-align: center;
+
+	background-image: url("Imagenes/fotos2.jpeg");
+ 
+}
+ 
